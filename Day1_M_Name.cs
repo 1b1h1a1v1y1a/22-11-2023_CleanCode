@@ -48,8 +48,8 @@ var artists = new List<string> { 'ACDC', 'Led Zeppelin', 'The Beatles' };
 bool eraseDatabase() {}
 bool restoreDatabase() {}
 
-class animal {}
-class alpaca {}
+class Animal {}
+class Alpaca {}
 
 review6.cs
 public class Employee
@@ -75,3 +75,4 @@ public double CalculateSalary(int workingDays, int workingHours)
 {
     // some logic
 }
+
